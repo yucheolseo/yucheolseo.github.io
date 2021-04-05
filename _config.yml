@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Infrastructure Operation"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Network"
-  location         : "Korea"
+  bio              : "Changwon Datacenter"
+  location         : "Doosan Korea"
   email            :
   links:
     - label: "Email"
