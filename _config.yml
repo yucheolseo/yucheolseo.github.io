@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Doosan Corporation Digital Innovation"
 description              : "An amazing website."
 url                      : "https://yucheolseo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Infrastructure Operation"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Network"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
